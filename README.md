@@ -1,10 +1,10 @@
-# 🌐 Biler Jone
+# 🌐 Biker Zone
 
 ![Project Screenshot](https://via.placeholder.com/1200x600.png?text=Project+Screenshot)
 
 ## 🧾 Overview
 
-Open Lobrary is a full-stack gardening tips platform where users can explore books, borrow books, connect with others. The site supports authentication, CRUD functionalities, filtering, and user-specific experiences.
+A static site where user can find , filter and select his dream bike.  Modern technology like tailwind, react is used to create this website
 
 ---
 
