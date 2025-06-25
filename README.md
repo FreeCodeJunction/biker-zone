@@ -40,7 +40,7 @@ A static site where user can find , filter and select his dream bike.  Modern te
   "dependencies": {
     "@tailwindcss/vite": "^4.0.3",
     "tailwindcss": "^4.0.3",
-"@eslint/js": "^9.17.0",
+    "@eslint/js": "^9.17.0",
     "daisyui": "^5.0.0-beta.6",
     "eslint": "^9.17.0",
     "globals": "^15.14.0",
