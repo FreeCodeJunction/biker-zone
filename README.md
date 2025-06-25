@@ -36,20 +36,17 @@ A static site where user can find , filter and select his dream bike.  Modern te
 
 ## 📦 Dependencies
 
-### Client (`/client`)
-
 ```json
   "dependencies": {
     "@tailwindcss/vite": "^4.0.3",
-    "tailwindcss": "^4.0.3"
-  },
-  "devDependencies": {
-    "@eslint/js": "^9.17.0",
+    "tailwindcss": "^4.0.3",
+"@eslint/js": "^9.17.0",
     "daisyui": "^5.0.0-beta.6",
     "eslint": "^9.17.0",
     "globals": "^15.14.0",
     "vite": "^6.0.5"
-  }
+  },
+  
 ```
 
 ## 💻 How to Run Locally
