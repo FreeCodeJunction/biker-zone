@@ -10,7 +10,7 @@ A static site where user can find , filter and select his dream bike.  Modern te
 
 ## Live site & Relavent links
 
-**Live Site URL**: [https://openlibrary-31653.web.app/](https://openlibrary-31653.web.app/)
+**Live Site URL**: [https://freecodejunction.github.io/biker-zone/](https://freecodejunction.github.io/biker-zone/)
 
 
 
