@@ -54,8 +54,8 @@ A static site where user can find , filter and select his dream bike.  Modern te
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/your-project.git
-cd your-project
+git clone https://github.com/FreeCodeJunction/biker-zone.git
+cd biker-zone
 ```
 
 ### 2. Install Dependencies
@@ -73,8 +73,4 @@ npm install
 npm run dev
 ```
 
-### 5. Visit
-```
-http://localhost:3000
-```
 
