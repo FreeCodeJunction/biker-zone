@@ -1,6 +1,6 @@
 # 🌐 Biker Zone
 
-![Project Screenshot](https://via.placeholder.com/1200x600.png?text=Project+Screenshot)
+![Bike Zone](./biker-zone.png)
 
 ## 🧾 Overview
 
