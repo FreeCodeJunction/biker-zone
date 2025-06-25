@@ -39,26 +39,17 @@ A static site where user can find , filter and select his dream bike.  Modern te
 ### Client (`/client`)
 
 ```json
-{
-  "react": "^18.x.x",
-  "react-dom": "^18.x.x",
-  "react-router-dom": "^6.x.x",
-  "axios": "^1.x.x",
-  "tailwindcss": "^3.x.x",
-  "firebase": "^10.x.x"
-}
-```
-
-
-### Server (`/server`)
-```json
-{
-  "express": "^4.x.x",
-  "mongoose": "^7.x.x",
-  "cors": "^2.x.x",
-  "dotenv": "^16.x.x",
-  "jsonwebtoken": "^9.x.x"
-}
+  "dependencies": {
+    "@tailwindcss/vite": "^4.0.3",
+    "tailwindcss": "^4.0.3"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.17.0",
+    "daisyui": "^5.0.0-beta.6",
+    "eslint": "^9.17.0",
+    "globals": "^15.14.0",
+    "vite": "^6.0.5"
+  }
 ```
 
 ## 💻 How to Run Locally
